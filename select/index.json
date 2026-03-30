@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カニピース",
+  "base_artist": "MEGAFON",
+  "createdAt": "2026-03-30T12:18:36.747526Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カニピース",
+      "artist": "MEGAFON",
+      "has_synced": false,
+      "path": "select/pl_01_カニピース_MEGAFON.txt"
+    }
+  ]
+}
